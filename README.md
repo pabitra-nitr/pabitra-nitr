@@ -76,3 +76,16 @@
 </p>
 
 <div align="center"> 
+  Visitors count:<br>
+  <img src="https://profile-counter.glitch.me/pabitra-kumar/count.svg" />
+</div>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=pabitra-kumar&theme=onedark&&bg_color=eee8d5&&row=2&column=7&&center" width="99%" alt="github-trophy" />
+</p>
+
+<!---
+pabitra-kumar/pabitra-kumar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
+
